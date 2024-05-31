@@ -38,3 +38,9 @@ A free-for-all 2D deathmatch multiplayer game.
 - [Weapon attack and switch sounds](https://opengameart.org/content/rpg-sound-pack)
 - [Steps sounds](https://opengameart.org/content/foot-walking-step-sounds-on-stone-water-snow-wood-and-dirt)
 - [Death and pain sounds](https://opengameart.org/content/11-male-human-paindeath-sounds)
+
+## Known Issues
+- Players can sometimes phase through walls.
+- Kills are sometimes counted twice.
+- Kills can sometimes be attributed to the killed players.
+
