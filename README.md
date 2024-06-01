@@ -1,6 +1,14 @@
 # MineMancers
 ![Logo](Assets/Sprites/Logo%20New.png?raw=true "MineMancers")
 
+## Screenshots
+![Player throwing a projectile](Screenshots/Attack.png?raw=true "Player throwing a Projectile")
+![Player getting hit by another player](Screenshots/Combat.png?raw=true "Player getting hit by another player")
+![Player becoming a ghost](Screenshots/Ghost.png?raw=true "Player becoming a ghost")
+![Player getting killed by another player](Screenshots/Kill.png?raw=true "Player getting killed by another player")
+![Player mining ammunition from the deposit](Screenshots/Mining.png?raw=true "Player mining ammunition from the deposit")
+![Player using a shield](Screenshots/Shield.png?raw=true "Player using a shield")
+
 ## Description
 MineMancers is an exhilarating free-for-all 2D multiplayer deathmatch game where players assume the roles of mystical minemancers vying to accumulate the most kills within a tight 5-minute round. Each player starts with 100 health points and engages in intense combat to outlast and outplay their opponents.
 
