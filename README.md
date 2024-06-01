@@ -68,3 +68,6 @@ Whether strategizing over resource management or engaging directly in combat, Mi
 - Kills are sometimes counted twice.
 - Kills can sometimes be attributed to the killed players.
 - High score is reset when a player respawns even if the round is not over.
+
+## Important
+- If you plan on forking or cloning this repository, you will need to provide your own Unity Services account. You can find more info on how to do this [here](https://docs.unity3d.com/Manual/SettingUpProjectServices.html).
