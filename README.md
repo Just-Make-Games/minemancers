@@ -2,7 +2,23 @@
 ![Logo](Assets/Sprites/Logo%20New.png?raw=true "MineMancers")
 
 ## Description
-A free-for-all 2D deathmatch multiplayer game.
+MineMancers is an exhilarating free-for-all 2D multiplayer deathmatch game where players assume the roles of mystical minemancers vying to accumulate the most kills within a tight 5-minute round. Each player starts with 100 health points and engages in intense combat to outlast and outplay their opponents.
+
+Key Features:
+- Dynamic Combat: Players can attack using two weapons — a Pickaxe and a throwable Projectile, each dealing 10 damage. The throwable Projectiles have limited ammunition, encouraging strategic use and frequent resupply.
+- Resource Management: Ammunition is scarce and must be mined from gold deposits scattered across the battlefield. Deposits closer to the centre yield more ammo, but disappear temporarily when depleted, adding a layer of strategy to resource collection.
+- Defensive Tactics: Players can activate a temporary shield for one second to block incoming projectiles, crucial for surviving in the heat of battle.
+- Second Chances: Upon reaching 10 health points or below, players transform into ghosts with enhanced abilities, including double damage output. Ghosts can revive to full health and ammo by securing a kill, offering a dramatic comeback potential.
+- Vibrant Visuals and Sound: The game features full animation, engaging music, and immersive sound effects, including the distinct sounds of mining and weapon impacts.
+
+Whether strategizing over resource management or engaging directly in combat, MineMancers promises a fast-paced and engaging multiplayer experience.
+
+## Controls
+- WASD movement.
+- Mouse to control the target.
+- Left mouse button to attack.
+- Right mouse button to use the shield.
+- Q key to switch between Pickaxe and Projectile weapons.
 
 ## Features
 - Lobby-based multiplayer with lobby browser
@@ -43,4 +59,4 @@ A free-for-all 2D deathmatch multiplayer game.
 - Players can sometimes phase through walls.
 - Kills are sometimes counted twice.
 - Kills can sometimes be attributed to the killed players.
-
+- High score is reset when a player respawns even if the round is not over.
